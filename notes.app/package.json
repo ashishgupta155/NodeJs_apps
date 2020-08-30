@@ -1,0 +1,24 @@
+{
+  "name": "nodejs_apps",
+  "version": "1.0.0",
+  "description": "NodeJs applications",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishgupta155/NodeJs_apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishgupta155/NodeJs_apps/issues"
+  },
+  "homepage": "https://github.com/ashishgupta155/NodeJs_apps#readme"
+}
